@@ -1,0 +1,5 @@
+f=open("file1.txt","w")
+f.write("my first file\n")
+f.write("this file\n\n")
+f.write("contains three lines\n")
+f.close()
